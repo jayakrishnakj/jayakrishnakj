@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayakrishnakj
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning data anayltics
-- 💞️ I’m looking to collaborate on game development since its my passion
+- 💞️ I’m looking to collaborate on application development since its my passion
 - 📫 You can reach me jayakrishnakjayaraj@gmail.com
 
 <!---
